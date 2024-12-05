@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2024-12-05 06:26:23" tvg-logo="https://live.fanmingming.com/tv/2024-12-05 06:26:23.png" group-title="更新时间",2024-12-05 06:26:23
+#EXTINF:-1 tvg-name="2024-12-05 18:27:53" tvg-logo="https://live.fanmingming.com/tv/2024-12-05 18:27:53.png" group-title="更新时间",2024-12-05 18:27:53
 url
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="☘️广东频道",广东珠江
 http://14.112.86.101:4022/rtp/239.77.1.94:5146$组播源
@@ -30,19 +30,17 @@ http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="☘️广东频道",广东卫视
 http://183.94.146.109:2222/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="☘️广东频道",广东卫视
-http://220.249.114.102:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="☘️广东频道",广东卫视
 http://www.furymax.top:85/rtp/239.254.96.140:8914$组播源
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="☘️广东频道",广东卫视
 http://222.129.139.91:8888/rtp/239.3.1.142:8048$组播源
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="☘️广东频道",广东卫视
-http://115.60.241.249:2000/rtp/225.1.4.166:1207$组播源
+http://60.164.128.167:8029/rtp/239.255.30.134:8231$组播源
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="☘️广东频道",广东卫视
 http://117.27.190.42:9998/tsfile/live/23270_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="☘️广东频道",广东卫视
-http://123.113.187.204:8000/udp/239.3.1.142:8048$订阅源
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="☘️广东频道",广东卫视
 http://222.129.139.229:8888/udp/239.3.1.142:8048$订阅源
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="☘️广东频道",广东卫视
+http://114.252.238.87:8000/udp/239.3.1.142:8048$订阅源
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="☘️广东频道",广东民生
 http://183.11.239.36:808/hls/18/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="☘️广东频道",广东民生
@@ -84,9 +82,7 @@ http://116.128.242.83:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="☘️广东频道",深圳卫视
 http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="☘️广东频道",深圳卫视
-http://220.249.114.102:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="☘️广东频道",深圳卫视
-http://59.173.183.242:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+http://183.94.146.109:2222/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="☘️广东频道",深圳卫视
 http://www.furymax.top:85/rtp/239.254.96.137:8896$组播源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="☘️广东频道",深圳卫视
@@ -94,11 +90,11 @@ http://222.129.139.91:8888/rtp/239.3.1.134:8020$组播源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="☘️广东频道",深圳卫视
 http://58.252.12.164:8000/rtp/239.77.0.130:5146$组播源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="☘️广东频道",深圳卫视
-http://115.60.241.249:2000/rtp/225.1.4.90:1119$组播源
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="☘️广东频道",深圳卫视
-http://111.192.0.32:4022/rtp/239.3.1.134:8020$组播源
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="☘️广东频道",深圳卫视
 http://112.102.217.173:9003//hls/51/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="☘️广东频道",深圳卫视
+http://61.136.172.236:9901/tsfile/live/0126_1.m3u8$订阅源
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="☘️广东频道",深圳卫视
+http://123.118.159.0:8686/udp/239.3.1.134:8020$订阅源
 #EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="☘️广东频道",汕头综合
 http://14.112.86.101:4022/udp/239.77.1.130:5146$订阅源
 #EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="☘️广东频道",汕头经济
