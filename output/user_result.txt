@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-26 06:38:54,url
+2025-01-26 18:34:47,url
 ☘️广东频道,#genre#
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8$订阅源
 广东珠江,http://14.112.86.85:4022/udp/239.77.0.1:5146$订阅源
@@ -41,7 +41,6 @@
 深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 深圳卫视,http://220.249.114.102:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-深圳卫视,http://60.2.190.206:4000/rtp/239.253.92.86:8017$组播源
 深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8$订阅源
 深圳卫视,http://61.138.128.226:19901/tsfile/live/0126_1.m3u8$订阅源
 深圳卫视,http://111.61.236.247:9081/hls/38/index.m3u8$订阅源
