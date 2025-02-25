@@ -1,9 +1,9 @@
 更新时间,#genre#
-2025-02-25 18:23:56,url
+2025-02-26 06:22:53,url
 ☘️广东频道,#genre#
 广东珠江,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2277&tk=e640d0a1bf70$订阅源
-广东珠江,http://183.3.134.56:9901/tsfile/live/0019_1.m3u8$订阅源
 广东珠江,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6340&tk=f6cc1e0a0e1a$订阅源
+广东珠江,http://183.11.239.36:808/hls/83/index.m3u8$订阅源
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源
 广东体育,http://125.89.163.44:8888/udp/239.77.0.112:5146$订阅源
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8$订阅源
