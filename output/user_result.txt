@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-16 18:24:15,url
+2025-03-17 06:23:24,url
 ☘️广东频道,#genre#
 广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.191:11111$订阅源
 广东珠江,https://live.ximalaya.com/radio-first-page-app/live/252/64.m3u8?transcode=ts$订阅源
@@ -26,3 +26,4 @@
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源-1920x1080
 深圳卫视,http://36.40.236.194:9999/tsfile/live/0126_2.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+深圳卫视,http://58.243.224.244:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
