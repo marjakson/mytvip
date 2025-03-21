@@ -1,17 +1,15 @@
 更新时间,#genre#
-2025-03-21 18:26:01,url
+2025-03-22 06:24:35,url
 ☘️广东频道,#genre#
 广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.191:11111$订阅源
 广东珠江,https://live.ximalaya.com/radio-first-page-app/live/252/64.m3u8?transcode=ts$订阅源
 广东珠江,http://live.xmcdn.com/live/252/64.m3u8$订阅源
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源
 广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111$订阅源
 广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111$订阅源
+广东体育,http://119.32.12.17:2901/udp/224.1.100.34:11111$订阅源
 广东新闻,http://119.32.12.32:2901/udp/224.1.100.5:11111$订阅源
 广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-广东卫视,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
-广东卫视,http://110.7.131.4:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-广东卫视,http://110.7.131.4:9901$订阅源
+广东卫视,http://116.117.106.103:8096/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 广东民生,http://qjrhc.jydjd.top:2911/udp/224.1.100.152:11111$订阅源
 广东民生,http://qjrhc.jydjd.top:2911/udp/224.1.100.4:11111$订阅源
 广东民生,http://119.32.12.17:2901/udp/224.1.100.4:11111$订阅源
@@ -23,10 +21,9 @@
 广州综合,http://119.32.12.17:2901/udp/224.1.100.36:11111$订阅源
 广州影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.87:11111$订阅源
 广州影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.88:11111$订阅源
-广州影视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4622&tk=a0c4f6cfaba3$订阅源
+广州影视,http://125.89.163.44:8888/udp/239.253.43.73:5146$订阅源
 广州竞赛,http://119.32.12.32:2901/udp/224.1.100.105:11111$订阅源
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 深圳卫视,http://58.220.219.14:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-深圳卫视,http://110.7.131.4:9901$订阅源
-深圳卫视,http://110.7.131.4:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+深圳卫视,http://58.243.224.244:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+深圳卫视,http://116.117.106.103:8096/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
