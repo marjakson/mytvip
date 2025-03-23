@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-23 18:22:10,url
+2025-03-24 06:22:47,url
 ☘️广东频道,#genre#
 广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.191:11111$订阅源
 广东珠江,https://live.ximalaya.com/radio-first-page-app/live/252/64.m3u8?transcode=ts$订阅源
@@ -14,7 +14,6 @@
 广东民生,http://119.32.12.17:2901/udp/224.1.100.4:11111$订阅源
 大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111$订阅源
 大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.153:11111$订阅源
-大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8$订阅源
 广州综合,http://qjrhc.jydjd.top:2911/udp/224.1.100.35:11111$订阅源
 广州综合,http://qjrhc.jydjd.top:2911/udp/224.1.100.36:11111$订阅源
 广州综合,http://119.32.12.17:2901/udp/224.1.100.36:11111$订阅源
